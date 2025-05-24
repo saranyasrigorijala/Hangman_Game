@@ -1,1 +1,1 @@
-# Hangman_Game
+This project is an exploration of language and logic through the recreation of the classic word-guessing game, Hangman, using Python. The game challenges players to guess a hidden word one letter at a time, with a limited number of incorrect guesses allowed before the game ends. If the letter is not in the word, then hangman will be drawn corresponding to the number of tries and the number of chances for guessing the word decreases. The game continues until the player guess the word correctly or runs of the guesses.
